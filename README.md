@@ -1,10 +1,10 @@
 # Language Translator Python Program
 
-![Language Translator](translator_screenshot.png)
+![Language Translator]([translator_screenshot.png](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/c5105867e4fffbc9f08a8949d77273eb6278b788/img/translator_screenshot.png))
 
 ## Overview
 
-This Python project aims to provide a user-friendly Graphical User Interface (GUI) for translating text content from one language to any other language in real-time. The program utilizes the `customtkiter` library for GUI development and the `googletrans` library for language translation.
+This Python project aims to provide a user-friendly Graphical User Interface (GUI) for translating text content from one language to another in real-time. The program utilizes the `customtkiter` library for GUI development and the `googletrans` library for language translation.
 
 ## Features
 
@@ -36,7 +36,7 @@ The requirements.txt file is present in this repo itself.
 ## Getting Started
 
 1. Import the necessary modules from `customtkiter` and `googletrans`.
-2. Create a GUI window with input and output text areas, along with a "Translate" button.
+2. Create a GUI window with input and output text areas and a "Translate" button.
 3. Implement the translation function using the `googletrans` library.
 4. Link the "Translate" button to call the translation function and update the output text area accordingly.
 
@@ -44,12 +44,12 @@ The requirements.txt file is present in this repo itself.
 
 - The program requires an active internet connection to access the Google Translate service.
 - Due to the limitations of the Google Translate API, extensive usage may be rate-limited.
-- The GUI library used has set limitations further making the application less user friendly.
+- The GUI library has set limitations, demining the applications' user-friendly aspect.
 
 ## Contributions
 
-Contributions to improve the project, adding new features, fixing bugs, or enhancing the GUI are welcome. Just create a pull request, and we'll review it together.
+Contributions to improving the project, adding new features, fixing bugs, or enhancing the GUI are welcome. Just create a pull request, and we'll review it together.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/42316f1fe05c0ddda2e7a0becb4ff901ef593524/LICENSE)https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/42316f1fe05c0ddda2e7a0becb4ff901ef593524/LICENSE) file for details.
