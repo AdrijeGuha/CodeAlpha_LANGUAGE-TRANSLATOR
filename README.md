@@ -1,6 +1,6 @@
 # Language Translator Python Program
 
-![Language Translator]([translator_screenshot.png](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/c5105867e4fffbc9f08a8949d77273eb6278b788/img/translator_screenshot.png))
+![Language Translator](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/c5105867e4fffbc9f08a8949d77273eb6278b788/img/translator_screenshot.png)
 
 ## Overview
 
@@ -52,4 +52,4 @@ Contributions to improving the project, adding new features, fixing bugs, or enh
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/42316f1fe05c0ddda2e7a0becb4ff901ef593524/LICENSE)https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/42316f1fe05c0ddda2e7a0becb4ff901ef593524/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/42316f1fe05c0ddda2e7a0becb4ff901ef593524/LICENSE) file for details.
