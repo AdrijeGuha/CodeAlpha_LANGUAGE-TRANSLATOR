@@ -1,4 +1,4 @@
-#Language Translator Python Program
+# Language Translator Python Program
 
 ![Language Translator](https://github.com/AdrijeGuha/CodeAlpha_LANGUAGE-TRANSLATOR/blob/c5105867e4fffbc9f08a8949d77273eb6278b788/img/translator_screenshot.png)
 
