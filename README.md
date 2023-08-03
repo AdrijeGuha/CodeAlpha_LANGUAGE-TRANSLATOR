@@ -4,7 +4,7 @@
 
 ## Overview
 
-This Python project aims to provide a user-friendly Graphical User Interface (GUI) for translating text content from one language to another in real-time. The program utilizes the `customtkiter` library for GUI development and the `googletrans` library for language translation.
+This Python project aims to provide a user-friendly Graphical User Interface (GUI) for translating text content from one language to another in real-time. The program utilizes the `customtkinter` library for GUI development and the `googletrans` library for language translation.
 
 ## Features
 
@@ -16,7 +16,7 @@ This Python project aims to provide a user-friendly Graphical User Interface (GU
 
 Before running the program, ensure you have the following libraries installed:
 
-- [customtkiter](https://github.com/TomSchimansky/CustomTkinter)
+- [customtkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [googletrans](https://github.com/ssut/py-googletrans)
 
 You can install the required libraries using the following command:
