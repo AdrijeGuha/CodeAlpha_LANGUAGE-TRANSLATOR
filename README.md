@@ -30,8 +30,8 @@ The requirements.txt file is present in this repo itself.
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Install the required libraries as mentioned in the "Prerequisites" section.
-3. Run the `translator.py` script to launch the GUI application.
+2. Install the required libraries mentioned in the "Prerequisites" section.
+3. Run the `Translator.py` script to launch the GUI application.
 
 ## Getting Started
 
